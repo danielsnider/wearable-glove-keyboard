@@ -6,9 +6,9 @@ The most common english letters are mapped to the most convientent "touch points
 ##Installation
 1. Install the [Pregrine glove software] so that key mapping can be loaded. 
 3. Load the key map profile `key-mappings.PKF`.
-2. Install [GlovePIE].
+2. Install [GlovePIE] for voice feedback.
 2. For Windows 8 users only, download [d3dx9_33.dll], and copy it to GlovePIE's program files.. 
-3. Open `mappings.PIE` in GlovePIE.
+3. Open `voice-feedback.PIE` in GlovePIE.
 4. Click run. 
 5. Now you can type away like some kind of cypborg!
 
